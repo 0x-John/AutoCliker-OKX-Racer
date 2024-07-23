@@ -17,7 +17,7 @@ AutoClicker OKX Racer - это автокликер для автоматиза�
 python --version
 pip --version
 ```
-### Шаг 3: Скачайте код AutoCliker Blum с GitHub
+### Шаг 3: Скачайте код AutoCliker OKX Racer с GitHub
 [КЛИК](https://github.com/0x-John/AutoCliker-OKX-Racer) 
 
 ### Шаг 4: Установите зависимости
